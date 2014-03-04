@@ -1,4 +1,4 @@
-function getElementsByAttributeName(x,y)
+function sumxy(x,y)
 {
 return x+y;
 }
